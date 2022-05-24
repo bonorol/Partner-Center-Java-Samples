@@ -16,24 +16,24 @@
 		<filter-name>AuthenticationFilter</filter-name>
 		<filter-class>com.microsoft.store.samples.partnerconsent.security.AuthenticationFilter</filter-class>
 		<init-param>
-			<param-name>client_id</param-name>
-			<param-value></param-value>
+				<param-name>client_id</param-name>
+			<param-value>41e636d4-5acc-456a-81d2-b9b37c3cd39e</param-value>
 		</init-param>
 		<init-param>
 			<param-name>client_secret</param-name>
-			<param-value></param-value>
+			<param-value>zCZsVpqmXWv23vRQ9mXuOJvXOH1pYTn75yb7/FvJpFk=</param-value>
 		</init-param>
 		<init-param>
 			<param-name>keyvault_base_url</param-name>
-			<param-value></param-value>
+			<param-value>https://dhohapimkeyvault001.vault.azure.net/</param-value>
 		</init-param>
 		<init-param>
 			<param-name>keyvault_client_id</param-name>
-			<param-value></param-value>
+			<param-value>6f200b53-6766-45e1-bccf-8fe249326ae5</param-value>
 		</init-param>
 		<init-param>
 			<param-name>keyvault_client_secret</param-name>
-			<param-value></param-value>
+			<param-value>7S9JmRzrDwp1nbtlh7AI904ryMWM8s/O42rIF/jRzpQ=</param-value>
 		</init-param>
 		<init-param>
 			<param-name>keyvault_tenant_id</param-name>
